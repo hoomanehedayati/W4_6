@@ -7,7 +7,7 @@ while num > 1:
         num = num // 2
     else:
         num = (num * 3) + 1
-    print("->", int(num), end="")
+    print(" ->", num, end="")
     x += 1
 print(f"\nSequence had {x} total steps.")
 print("Program ending.")
