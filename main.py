@@ -1,4 +1,4 @@
-print("program starting.")
+print("Program starting.")
 num = int(input("Insert a positive integer: "))
 x = 0
 print(num, end="")
